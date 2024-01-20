@@ -1,1 +1,1 @@
-# Finance-Python
+# Finance-Python (Beginner friendly)
